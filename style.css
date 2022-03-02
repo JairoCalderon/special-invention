@@ -2,3 +2,7 @@ body{
     background-color: black;
     color: white;
 }
+
+h2, h3{
+    color: orange;
+}
